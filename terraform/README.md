@@ -1,4 +1,4 @@
-# Terraform
+# Infrastructure as a code with Terraform
 
 In this directory contains terraform configuration which creates infrastructure in `Google Cloud` such as:
 
