@@ -2,6 +2,8 @@
 
 ## Overview
 
+🚧 **Under Construction** 🚧
+
 This project aims to conduct a comprehensive analysis of player behavior, pricing dynamics, and application details for 2000 applications on the Steam games platform. The dataset includes player count history, price history, and various application details collected using the Steamworks web API and StorefrontAPI. The analysis focuses on uncovering trends in player counts over time, exploring the impact of free-to-play status, and understanding the influence of supported languages and game genres on player engagement.
 
 **Note:** This project is currently under construction, and work is in progress.
