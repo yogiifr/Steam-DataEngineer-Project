@@ -1,0 +1,1 @@
+Here's how to connect Metabase with Google BigQuery
