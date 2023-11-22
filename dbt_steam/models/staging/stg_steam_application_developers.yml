@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: stg_steam_data__application_developers
+  - name: stg_steam_application_developers
     description: >
       Contains companies (studios) names which developed applications. 
       One application can developed by several companies.

@@ -2,8 +2,7 @@ version: 2
 
 sources:
   - name: staging
-    database: de-course-final-project
-    schema: steam_data
+    schema: steamhub
 
     tables:
       - name: application_developers

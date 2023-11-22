@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: stg_steam_data__application_tags
+  - name: stg_steam_application_tags
     description: >
       Contains applications tags.
       One application can support several tags.

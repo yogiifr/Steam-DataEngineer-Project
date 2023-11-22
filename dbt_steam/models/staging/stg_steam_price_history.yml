@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: stg_steam_data__price_history
+  - name: stg_steam_price_history
     description: >
       Contains information about application prices.
     columns:

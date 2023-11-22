@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: stg_steam_data__player_count_history
+  - name: stg_steam_player_count_history
     description: >
       Contains information about player count for applications.
     columns:

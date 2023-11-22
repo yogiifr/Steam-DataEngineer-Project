@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: stg_steam_data__application_publishers
+  - name: stg_steam_application_publishers
     description: >
       Contains companies (studios) names which published applications. 
       One application can published by several companies.

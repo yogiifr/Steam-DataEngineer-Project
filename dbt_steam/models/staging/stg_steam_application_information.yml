@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: stg_steam_data__application_information
+  - name: stg_steam_application_information
     description: Contains applications information.
     columns:
       - name: app_id

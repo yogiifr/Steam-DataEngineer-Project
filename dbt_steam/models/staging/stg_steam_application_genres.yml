@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: stg_steam_data__application_genres
+  - name: stg_steam_application_genres
     description: Contains applications genres. One application can belong to several genres.
     columns:
       - name: app_id

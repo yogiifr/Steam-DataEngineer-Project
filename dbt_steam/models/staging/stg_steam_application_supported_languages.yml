@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: stg_steam_data__application_supported_languages
+  - name: stg_steam_application_supported_languages
     description: >
       Contains languages which supports application
       One application can support several languages.
