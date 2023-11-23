@@ -1,4 +1,4 @@
-# SteamHub: Steam Games End to End Project
+# SteamHub: Steam Games End to End Data Pipeline Project
 
 ## Overview
 
@@ -15,9 +15,8 @@ This project aims to conduct a comprehensive analysis of player behavior, pricin
     - **BigQuery**: Data Warehouse
 - **Terraform**: Infrastructure as code (IaC)
 - **dbt**: Data Transformation
-- **Pandas**: Data Analysis & Exploration
 - **Airflow**: Workflow Orchestration
-- **Looker Studio**: Visualize Data
+- **Metabase**: Visualize Data
 
 ## Project Structure
 
@@ -45,8 +44,7 @@ This project is actively being developed, and the following tasks are currently 
 
 - Data ingestion and storage setup in GCP.
 - Implementation of data transformation pipelines using dbt.
-- Development of data analysis scripts using Pandas.
 - Configuration of workflow orchestration using Airflow.
-- Designing interactive dashboards and visualizations in Looker Studio.
+- Designing interactive dashboards and visualizations in Metabase.
 
 Stay tuned for updates as we continue to enhance and refine the project.
