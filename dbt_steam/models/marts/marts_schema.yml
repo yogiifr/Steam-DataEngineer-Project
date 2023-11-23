@@ -1,0 +1,40 @@
+version: 2
+
+models:
+  - name: marts_trends_player_count
+    description: |
+      Explore and analyze the overall trends in player counts across all applications.
+    columns:
+      - name: application_id
+        description: The unique identifier for each application.
+      - name: date
+        description: The date truncated to day level.
+      - name: avg_player_count
+        description: The average player count for each application on a given day.
+
+  - name: marts_f2p_impact
+    description: |
+      Compare the player counts of free-to-play games with those of paid games.
+    columns:
+      - name: appid
+        description: The unique identifier for each application.
+      - name: UTC_time
+        description: The timestamp in UTC.
+      - name: player_count
+        description: The player count for each application.
+      - name: freetoplay
+        description: Binary indicator for whether the game is free to play (1) or not (0).
+
+  - name: marts_language_genre_preferences
+    description: |
+      Analyze the influence of supported languages and game genres on player counts.
+    columns:
+      - name: appid
+        description: The unique identifier for each application.
+      - name: type
+        description: The type of the application (game, mod, demo, advertising, or dlc).
+      - name: name
+        description: The name of the application.
+      - name: language
+        description: The supported language for the application.
+
