@@ -15,7 +15,7 @@ This project aims to conduct a comprehensive analysis of player behavior, pricin
     - **BigQuery**: Data Warehouse
 - **Terraform**: Infrastructure as code (IaC)
 - **dbt**: Data Transformation
-- **Airflow**: Workflow Orchestration
+- **Astro-Airflow**: Workflow Orchestration
 - **Metabase**: Visualize Data
 
 ## Project Structure
